@@ -1,6 +1,4 @@
-\
-\
-暂定的填坑列表,看情况随时增减:
+暂定的填坑列表,看情况随时增减:  
 (PSV)戦国無双 Chronicle 3
 (PS4)King's Quest
 (PS4)初音ミク Project DIVA Future Tone
