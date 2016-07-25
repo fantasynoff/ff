@@ -8,14 +8,13 @@
 (PS4)Shadow Warrior  
 (PS4)Zotrix  
 (PS4)パンチライン  
-  
-  
+
+<pre>
 emuvideo2mp4 project:  
 (SNES)BOF1 1- next  
 (NES)STARTROPICS-next  
-  
-  
-  
+
+<pre>
 
 > **2016**
   
@@ -435,6 +434,7 @@ emuvideo2mp4 project:
 (PS3)TROY無双  
 12.01  
 (PS3)戦场のヴァルキュリア  
+  
 11.29  
 (PSP)戦场のヴァルキュリア2：ガリア王立士官学校  
 11.26  
@@ -471,6 +471,7 @@ emuvideo2mp4 project:
 (PSP)Tales of Destiny 2  
 10.03  
 (PSV)Akiba's Trip 2  
+  
 09.30  
 (PSP)天地之門  
 09.29  
@@ -488,6 +489,7 @@ emuvideo2mp4 project:
 09.08  
 (PS3)真 流行り神  
 (PSV)超次元アクション ネプテューヌU  
+  
 08.31  
 (PSV)バレットガールズ (All High Rank Mission = Rank S)  
 08.28  
@@ -504,6 +506,7 @@ emuvideo2mp4 project:
 (PS4)The Last of Us Remastered (本篇 08.04 / Left Behind 08.06)  
 08.01  
 (PSV)ソードアート・オンライン －ホロウ・フラグメント－(ver1.05 125层+深渊桐人/虹辉龙/全CG)  
+  
 07.19  
 (PSV)超次次元ゲイム ネプテューヌRe;Birth2 SISTERS GENERATION  
 07.16  
@@ -516,6 +519,7 @@ emuvideo2mp4 project:
 (PSP)Tales of Eternia  
 07.04  
 (PS2)Valkyrie Profile 2: Silmeria  
+  
 06.29  
 (PS2)Tales of Destiny: Director's Cut(Stan's Side) + 0701(Lion's Side)  
 06.26  
@@ -534,6 +538,7 @@ emuvideo2mp4 project:
 (PSV)スーパーダンガンロンパ2 さよなら絶望学園  
 05.27  
 (PS3)龍が如く 維新  
+  
 04.26  
 (PSV)ダンガンロンパ 希望の学园と绝望の高校生 (普通模式+学园模式)  
 04.15  
@@ -544,6 +549,7 @@ emuvideo2mp4 project:
 (PS3)Beyond: Two Souls  
 04.06  
 (PS3)初音ミク Project Diva F2  
+  
 03.28  
 (PS3)Dark Souls II  
   
