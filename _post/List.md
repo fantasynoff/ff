@@ -1,26 +1,44 @@
-Use for : http://live.bilibili.com/10469
-<pre></pre>
-
+Used for: http://live.bilibili.com/10469  
+  
 暂定的填坑列表,看情况随时增减:  
 (PSV)戦国無双 Chronicle 3  
-(PS4)King's Quest  
-(PS4)初音ミク Project DIVA Future Tone  
+(PS4)King's Quest (Cp3~?)  
 (PSP)街 〜運命の交差点〜 特別篇  
-(PS4)真 流行り神2  
-(PS4)Shadow Warrior  
-(PS4)Zotrix  
-(PS4)パンチライン  
-525
-<pre></pre>
+(PS4)Zotrix   
+(PSV)バレットガールズ２  
+(PS2).hack//G.U. Vol.2 君想フ声  
+(PS2).hack//G.U. Vol.3 歩くような速さで  
+&ensp;  
 emuvideo2mp4 project:  
 (SNES)BOF1 1- next  
 (NES)STARTROPICS-next  
+  
+  
+> **2016**  
 
-<pre></pre>
 
-> **2016**
-
-
+08.18  
+(PS2).hack//G.U. Vol.1 再誕  
+08.15  
+(PS2).hack//fragment  
+08.14  
+(PS2).hack//絶対包囲 Vol.4  
+08.12  
+(PS2).hack//悪性変異 Vol.2  
+(PS2).hack//侵食汚染 Vol.3  
+08.11  
+(PS4)Back to the Future: The Game 30th Anniversary Edition  
+(PS2).hack//感染拡大 Vol.1  
+08.09  
+(PS4)Broken Sword: The Serpent's Curse  
+08.06  
+(PS4)パンチライン  
+(PS4)SOMA  
+08.05  
+(PS4)初音ミク Project DIVA Future Tone  
+08.02  
+(PS4)真 流行り神2  
+  
 07.21  
 (PS4)FINAL FANTASY零式HD  
 07.16  
@@ -40,7 +58,7 @@ emuvideo2mp4 project:
 06.30  
 (PSP)FINAL FANTASY III  
 06.28  
-(PSP)FINAL FANTASY   
+(PSP)FINAL FANTASY  
 (PSP)FINAL FANTASY II  
 06.25  
 (WiiWare)Castlevania The Adventure ReBirth  
@@ -119,7 +137,7 @@ emuvideo2mp4 project:
 02.23  
 (PSV)干物妹！うまるちゃん ～干物妹！育成計画～  
 02.14  
-(PSP)聖剣伝説 RISE of MANA   
+(PSP)聖剣伝説 RISE of MANA  
 02.13  
 (PSP)銃声とダイヤモンド  
 02.11  
@@ -149,8 +167,8 @@ emuvideo2mp4 project:
 01.02  
 (PS4)新次元ゲイム ネプテューヌVⅡ  
   
-> **2015**
-  
+> **2015** 
+
 12.25  
 (PS4)FINAL FANTASY VII  
 12.19  
@@ -339,7 +357,7 @@ emuvideo2mp4 project:
 (WSC)アークザラッド 機神復活  
   
 04.28  
-(PS2)アークザラッド ジェネレーション(Class Arc Requied)  
+(PS2)アークザラッド ジェネレーション(Class Arc Requied)   
 04.26  
 (PS2)アークザラッド 精霊の黄昏  
 04.22  
@@ -347,7 +365,7 @@ emuvideo2mp4 project:
 04.16  
 (PSP)流行り神3 DLC「トイレの花子さん」  
 04.08  
-(PS4)真・三國無双７ with 猛将伝(Crosssave with PS3 ver.)  
+(PS4)真・三國無双７ with 猛将伝(Crosssave with PS3 ver.)   
 04.07  
 (PS3)真・三國無双７ with 猛将伝  
 04.02  
@@ -408,9 +426,9 @@ emuvideo2mp4 project:
 (PS3)Tales of Symphonia  
 01.04  
 (PS4)Call of Duty: Ghost  
-  
-> **2014**
-  
+ 
+> **2014** 
+
 12.31  
 (PS4)The Walking Dead: The Complete First Season  
 12.26  
@@ -433,7 +451,7 @@ emuvideo2mp4 project:
 (PS3)TROY無双  
 12.01  
 (PS3)戦场のヴァルキュリア  
-  
+
 11.29  
 (PSP)戦场のヴァルキュリア2：ガリア王立士官学校  
 11.26  
@@ -551,7 +569,6 @@ emuvideo2mp4 project:
   
 03.28  
 (PS3)Dark Souls II  
-  
-  
-  
-  
+&ensp;  
+&ensp;  
+&ensp;  
