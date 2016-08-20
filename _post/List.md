@@ -10,8 +10,7 @@ Used for: http://live.bilibili.com/10469
 (PS2).hack//G.U. Vol.3 歩くような速さで  
 &ensp;  
 emuvideo2mp4 project:  
-(SNES)BOF1 1- next  
-(NES)STARTROPICS-next  
+(SNES)EARTHBOUND2 -next?  
   
   
 > **2016**  
@@ -550,7 +549,7 @@ emuvideo2mp4 project:
 06.16  
 (PS2)天外魔境II MANJI MARU  
 06.08  
-(PS2)Death by Degrees (Nina Mode + Anna Mode) (*replay movie)  
+(PS2)Death by Degrees (Nina Mode + Anna Mode) (Note: replay movie)  
 06.04  
 (PSV)スーパーダンガンロンパ2 さよなら絶望学園  
 05.27  
