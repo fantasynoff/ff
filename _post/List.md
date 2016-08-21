@@ -1,6 +1,6 @@
 Used for: http://live.bilibili.com/10469  
   
-暂定的填坑列表,看情况随时增减:  
+Working Title:  
 (PSV)戦国無双 Chronicle 3  
 (PS4)King's Quest (Cp3~?)  
 (PSP)街 〜運命の交差点〜 特別篇(160821 Restart)  
