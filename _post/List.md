@@ -6,7 +6,9 @@ Working Title:
 (PSP)街 〜運命の交差点〜 特別篇(160821 Restart)  
 (PS4)Zotrix   
 (PSV)バレットガールズ２  
-(PS2).hack//G.U. Vol.3 歩くような速さで  
+(iOS)JUSTICE MONSTERS FIVE(ジャスモン)  
+(iOS)ソードアート・オンライン メモリー・デフラグ  
+(PSP).hack//Link  
 &ensp;  
 emuvideo2mp4 project:  
 (SNES)EARTHBOUND2 -next?  
@@ -16,8 +18,8 @@ emuvideo2mp4 project:
 
 
 
-09.  
-
+09.05  
+(PS2).hack//G.U. Vol.3 歩くような速さで  
 
 08.30  
 (PS2).hack//G.U. Vol.2 君想フ声  
