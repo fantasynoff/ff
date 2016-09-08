@@ -9,6 +9,7 @@ Working Title:
 (iOS)JUSTICE MONSTERS FIVE(ジャスモン)  
 (iOS)ソードアート・オンライン メモリー・デフラグ  
 (PSP).hack//Link  
+(PS4)Tale of Zestiria (テイルズ オブ ゼスティリア)
 &ensp;  
 emuvideo2mp4 project:  
 (SNES)EARTHBOUND2 -next?  
