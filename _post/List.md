@@ -1,15 +1,15 @@
-Used for: http://live.bilibili.com/10469  
-  
 Working Title:  
 (PSV)戦国無双 Chronicle 3  
 (PS4)King's Quest (Cp3~?)  
 (PSP)街 〜運命の交差点〜 特別篇(160821 Restart)  
 (PS4)Zotrix   
-(PSV)バレットガールズ２  
 (iOS)JUSTICE MONSTERS FIVE(ジャスモン)  
 (iOS)ソードアート・オンライン メモリー・デフラグ  
 (PSP).hack//Link  
-(PS4)Tale of Zestiria (テイルズ オブ ゼスティリア)
+(PS4)ソードアート・オンライン -ホロウ・リアリゼーション-  
+
+
+
 &ensp;  
 emuvideo2mp4 project:  
 (SNES)EARTHBOUND2 -next?  
@@ -18,6 +18,27 @@ emuvideo2mp4 project:
 > **2016**  
 
 
+10.17
+(PSV)バレットガールズ２  
+10.16
+(PS4)TRANSFORMERS: Devastation  
+10.13
+(PS4)Rebel Galaxy
+10.01  
+(PS4)Arcade Archives CONTRA  
+
+09.28  
+(PS4)Saints Row IV: Re-elected(100% with DLC)  
+09.22  
+(PS4)Salt and Sanctuary  
+09.20  
+(PS4)Slender: The Arrival  
+09.19  
+(PS4)Gravity Rush Remastered(100% with DLC)  
+09.16  
+(PS4)Tale of Zestiria(1st clear, 0920 finally gave up, 0929 start 2nd walkthrough)  
+
+----- h2b splitter -----  
 
 09.05  
 (PS2).hack//G.U. Vol.3 歩くような速さで  
@@ -238,9 +259,6 @@ emuvideo2mp4 project:
 (PS4)Call of Duty®: Advanced Warfare  
 09.26  
 (PS4)The Order: 1886  
-  
------ panda.tv splitter -----  
-  
 09.20  
 (PS3)IS＜インフィニット・ストラトス＞2 イグニッション・ハーツ  
 09.17  
